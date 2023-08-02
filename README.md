@@ -1,6 +1,6 @@
 # 1Mg Homeopathic Medicine Data Analysis Project
 
-![Project Banner](project_banner.jpg)
+![Project Banner](Personal Homeopathy Analysis.mp4)
 
 ## 📌 Introduction
 
