@@ -2,6 +2,15 @@
 
 ![Project Banner]([Personal Homeopathy Analysis.mp4](https://github.com/pranjalshukla04/TATA-1mg-CAPSTONE-PROJECT/blob/main/Personal%20Homeopathy%20Analysis.mp4))
 
+<video width="640" height="360" controls autoplay>
+  <source src="[/path/to/your/video.mp4](https://github.com/pranjalshukla04/TATA-1mg-CAPSTONE-PROJECT/blob/main/Personal%20Homeopathy%20Analysis.mp4)" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+
+
+
 ## 📌 Introduction
 
 Welcome to the **1Mg Homeopathic Medicine Data Analysis Project** GitHub repository! This project aims to harness the power of web scraping techniques, data analysis, and interactive Excel dashboards to provide illuminating insights into the realm of homeopathic medicine, as available on the prominent online medicine delivery platform, 1mg.
