@@ -2,8 +2,7 @@
 
 ## Project Introduction Video
 
-[![Project Introduction Video](https://img.youtube.com/vi/WpShoKe6EQ4/0.jpg)](https://youtu.be/WpShoKe6EQ4)
-
+[![Project Introduction Video](https://img.youtube.com/vi/ByVDR4Cfbww/0.jpg)](https://youtu.be/ByVDR4Cfbww)
 
 ## 📌 Introduction
 
@@ -52,7 +51,6 @@ To embark on your journey with this project, follow these steps:
 2. Install the necessary Python packages using `pip install -r requirements.txt`.
 3. Run the data collection script with `python scrape_data.py`.
 4. Open the provided Excel file `1mg_homeopathic_analysis.xlsx` to seamlessly navigate the interactive dashboard.
-
 
 ---
 
