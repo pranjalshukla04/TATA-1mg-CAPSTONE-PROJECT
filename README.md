@@ -50,9 +50,6 @@ To embark on your journey with this project, follow these steps:
 3. Run the data collection script with `python scrape_data.py`.
 4. Open the provided Excel file `1mg_homeopathic_analysis.xlsx` to seamlessly navigate the interactive dashboard.
 
-## 📜 License
-
-This project operates under the MIT License - find more details in the [LICENSE](LICENSE) file.
 
 ---
 
