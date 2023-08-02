@@ -1,6 +1,6 @@
 # 1Mg Homeopathic Medicine Data Analysis Project
 
-![Project Banner](Personal Homeopathy Analysis.mp4)
+![Project Banner]([Personal Homeopathy Analysis.mp4](https://github.com/pranjalshukla04/TATA-1mg-CAPSTONE-PROJECT/blob/main/Personal%20Homeopathy%20Analysis.mp4))
 
 ## 📌 Introduction
 
