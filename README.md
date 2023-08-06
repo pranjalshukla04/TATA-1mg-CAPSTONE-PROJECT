@@ -1,8 +1,11 @@
 # 1Mg Homeopathic Medicine Data Analysis Project
 
 ## Project Introduction Video
-
-[![Project Introduction Video](https://img.youtube.com/vi/ByVDR4Cfbww/0.jpg)](https://youtu.be/ByVDR4Cfbww)
+<div align="center">
+  <a href="https://youtu.be/ByVDR4Cfbww">
+    <img src="https://github.com/pranjalshukla04/TATA-1mg-CAPSTONE-PROJECT/raw/main/TIMELINE.png" alt="Project Introduction Video" width="1000px">
+  </a>
+</div>
 
 ## 📌 Introduction
 
