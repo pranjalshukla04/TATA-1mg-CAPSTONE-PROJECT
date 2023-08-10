@@ -13,7 +13,11 @@ Welcome to the **1Mg Homeopathic Medicine Data Analysis Project** GitHub reposit
 
 ## 🌟 Project Overview
 
-![Project Flow](https://github.com/pranjalshukla04/TATA-1mg-CAPSTONE-PROJECT/raw/main/Images/flow.png)
+<p align="center">
+  <img src="https://github.com/pranjalshukla04/TATA-1mg-CAPSTONE-PROJECT/raw/main/Images/flow.png" alt="Project Flow" width="1000" />
+</p>
+
+
 
 
 Dive into the intriguing universe of homeopathic medicine with our meticulously crafted dataset, harvested from the 1mg platform. Our dataset comprises two main tables: `medicine_name` and `medicine_details`. The former encapsulates essential tidbits about medicines, including name, size, MRP, and price, while the latter delves deeper, unearthing attributes such as brand name, key benefits, ingredients, user ratings, and more.
@@ -36,11 +40,18 @@ The extracted data was subjected to rigorous analysis using the powerful Pandas 
 
 ## 📈 Interactive Excel Dashboard
 
-![Interactive Excel Dashboard](https://example.com/dashboard_image.png)
+<p align="center">
+  <img src="https://github.com/pranjalshukla04/TATA-1mg-CAPSTONE-PROJECT/raw/main/Images/TATA%201MG%20SS1.png" alt="Screenshot 1" width="1000" />
+</p>
+
 
 We bring our insights to life through an interactive Excel dashboard. This dynamic tool empowers users to seamlessly filter and visualize data, all thanks to Excel's versatile features. Users can effortlessly explore insights related to varying benefit areas, visualize average prices, user ratings, and ingredient-related particulars.
 
 ## 📝 Business Insights
+<p align="center">
+  <img src="https://github.com/pranjalshukla04/TATA-1mg-CAPSTONE-PROJECT/raw/main/Images/kpi.png" alt="Key Performance Indicators" width="1000" />
+</p>
+
 
 Our analytical prowess uncovered a plethora of compelling business insights:
 - Identification of high-demand benefit areas and their corresponding products.
@@ -48,13 +59,15 @@ Our analytical prowess uncovered a plethora of compelling business insights:
 - Pinpointing brand specialization trends linked to key benefits.
 - Spotting high-rated medicines and their associated brands.
 
-![Business Insights](https://example.com/business_insights_image.png)
+
 
 ## 💰 Cost Estimation
+<p align="center">
+  <img src="https://github.com/pranjalshukla04/TATA-1mg-CAPSTONE-PROJECT/raw/main/Images/estimation.png" alt="Cost Estimation" width="1000" />
+</p>
 
 For aspiring entrepreneurs contemplating the launch of a homeopathic medicine store, we offer a valuable cost estimation tool. Employing our Excel dashboard, users can tailor their search based on benefit areas and estimate the total expenditure required for store setup.
 
-![Cost Estimation](https://example.com/cost_estimation_image.png)
 
 ## 🚀 Getting Started
 
