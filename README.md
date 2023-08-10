@@ -3,7 +3,7 @@
 ## Project Introduction Video
 <div align="center">
   <a href="https://youtu.be/ByVDR4Cfbww">
-    <img src="https://github.com/pranjalshukla04/TATA-1mg-CAPSTONE-PROJECT/raw/main/TIMELINE.png" alt="Project Introduction Video" width="1000px">
+    <img src="https://github.com/pranjalshukla04/TATA-1mg-CAPSTONE-PROJECT/blob/main/Images/TIMELINE.png" alt="Project Introduction Video" width="1000px">
   </a>
 </div>
 
