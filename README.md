@@ -13,7 +13,8 @@ Welcome to the **1Mg Homeopathic Medicine Data Analysis Project** GitHub reposit
 
 ## 🌟 Project Overview
 
-![Project Overview](https://example.com/project_overview_image.png)
+![Project Flow](https://github.com/pranjalshukla04/TATA-1mg-CAPSTONE-PROJECT/raw/main/Images/flow.png)
+
 
 Dive into the intriguing universe of homeopathic medicine with our meticulously crafted dataset, harvested from the 1mg platform. Our dataset comprises two main tables: `medicine_name` and `medicine_details`. The former encapsulates essential tidbits about medicines, including name, size, MRP, and price, while the latter delves deeper, unearthing attributes such as brand name, key benefits, ingredients, user ratings, and more.
 
